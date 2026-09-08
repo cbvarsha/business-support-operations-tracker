@@ -1,0 +1,8 @@
+[project]
+name = "business-support-operations-tracker"
+version = "1.0.0"
+description = "New-hire, procurement, timekeeping and audit-support workflow coordination."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

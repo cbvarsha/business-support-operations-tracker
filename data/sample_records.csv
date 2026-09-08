@@ -1,0 +1,6 @@
+id,category,owner,status,priority,hours,sla
+IND-01,Induction,Site Admin,Complete,High,6,8
+PO-02,Purchase order,Procurement,Approved,Medium,10,12
+TIME-03,Timekeeping,Payroll,Submitted,High,3,4
+AUD-04,Audit action,Quality,Open,Critical,5,8
+ISO-05,ISO gap action,Facilities,Review,Medium,9,12
